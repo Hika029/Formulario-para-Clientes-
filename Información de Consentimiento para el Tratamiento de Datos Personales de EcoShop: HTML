@@ -1,0 +1,77 @@
+!DOCTYPE html>
+<html>
+<head>
+     <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="terminos.css">
+    <title>Formulario de Consentimiento</title>
+    <style>
+        /* Estilos básicos, puedes personalizarlos */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            width: 50%;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cuadro">
+        <P>
+    <h2>Información de Consentimiento para el Tratamiento de Datos Personales de EcoShop</h2>
+
+            <strong>¿Qué datos recopilamos?</strong></p>
+           <p> Recopilamos los siguientes datos personales:</p>
+         <ul>
+    <li>Tu nombre y apellido </li>
+    <li>Correo electrónico</li>
+    <li>Número de teléfono</li>
+    <li>Direccíón de envío</li>
+</ul>
+            <strong>¿Para qué utilizamos tus datos?</strong> </p>
+            <p>Utilizamos sus datos personales con los siguientes fines:
+        </p>
+        <ul>
+            <li><strong>Gestión de pedidos y envíos:</strong>Para procesar sus compras y mantenerle informado sobre el estado de sus pedidos</li>
+            <li><strong>Comunicaciones comerciales:</strong> Para enviarle ofertas, promociones y novedades sobre nuestros productos y servicios.</li>
+             <li><strong>Personalización de la experiencia de compra:</strong>Para ofrecerle recomendaciones personalizadas y mejorar su experiencia en nuestra tienda.</li> 
+         </ul>
+             <p>  <strong>¿Cuánto tiempo conservamos tus datos?</strong> </P>
+            <p>Conservaremos sus datos personales durante el tiempo necesario para cumplir con las finalidades indicadas anteriormente y, en todo caso, durante el plazo establecido por la legislación aplicable.
+        </p>
+        <p>
+            <strong>¿A quién comunicamos tus datos?</strong> </p>
+            <p>Sus datos personales no serán cedidos a terceros, salvo obligación legal o cuando sea necesario para la prestación de los servicios contratados (por ejemplo, a empresas de transporte para la entrega de sus pedidos).
+        </p>
+
+        <p>
+            <strong>¿Cuáles son sus derechos?</strong> </p>
+            <p>Tiene derecho a:</p>
+            <ul>
+                <li><strong>Acceder a sus datos:</strong>Conocer qué datos tenemos sobre usted.</li>
+            <li><strong>Rectificar sus datos:</strong>Corregir cualquier información inexacta.</li>
+             <li><strong>Suprimir sus datos:</strong> Solicitar la eliminación de sus datos cuando ya no sean necesarios.</li> 
+             <li><strong>Oponerse al tratamiento:</strong>Oponerse al tratamiento de sus datos en determinadas circunstancias.</li>
+             <li><strong>Portabilidad de los datos:</strong> 
+              Recibir sus datos en un formato estructurado, de uso común y legible por máquina para transmitirlos a otro responsable del tratamiento.</li>
+              <li><strong>Retirar su consentimiento:</strong>Puede retirar su consentimiento en cualquier momento enviando un correo electrónico a Ecoshop20@gmail.com</li>
+          </ul>
+
+               <h3>Consentimiento</h3>
+               <p>Al marcar la siguiente casilla, usted declara haber leído y comprendido la presente información y consiente expresamente el tratamiento de sus datos personales para las finalidades indicadas:</p>
+        <label>
+            <input type="checkbox" required> Acepto recibir comunicaciones comerciales de EcoShop a través de correo electrónico y/o SMS.
+        </label>
+
+        <button type="submit">Enviar</button>
+    </form>
+</p>
+</div>
+</body>
