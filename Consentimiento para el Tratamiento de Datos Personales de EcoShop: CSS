@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
+ .cuadro {
+  border: 2px solid black; /* Borde de 2px, sólido y negro */
+  padding: 50px; /* Espacio interior del cuadro */
+  background-color: #f0f0f0; /* Color de fondo */
+  width: 700px; /* Ancho del cuadro */
+}
+.cuadro {
+  width: 1000px;
+  margin: 0 auto;
+}
+body {
+  background-image: url('fondo.png');
+}
